@@ -10,11 +10,9 @@ The repository includes analysis files, SQL scripts, planning documents, and the
 - Planning: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      Figma Process Flow and Canva Gantt Chart
 - Analysis:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Snowflake SQL script, Excel analysis (data processing and visuals)
 - Presentation: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Final executive presentation
-
 <br></br>
 
 🔍 Objectives
-
 Using the provided dataset, this project aims to:
 
 - Calculate daily unit sales price
