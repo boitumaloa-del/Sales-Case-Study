@@ -6,10 +6,11 @@ The repository includes analysis files, SQL scripts, planning documents, and the
 <br></br>
 📂 Repository Structure
 
-- Analysis:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Data analysis, scripts, SQL, and visuals
 - Provided Information: &nbsp;Case study instructions and datasets
+- Planning: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      Figma Process Flow and Canva Gantt Chart
+- Analysis:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Snowflake SQL script, Excel analysis (data processing and visuals)
 - Presentation: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Final executive presentation
-- Planning: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      Project notes, approach, and planning material
+
 <br></br>
 
 🔍 Objectives
@@ -39,7 +40,7 @@ Using the provided dataset, this project aims to:
 
 - PowerPoint for executive presentation
 
-- Data visualization tools (Excel, BI tools, or equivalent)
+- Data visualization tools (Excel)
 <br></br>
 
 📊 Key Deliverables
